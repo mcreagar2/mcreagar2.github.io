@@ -2620,6 +2620,12 @@ input, select, textarea {
 			margin: 0 0 2rem 2rem;
 			top: 0.75rem;
 		}
+		.image.featured {
+			display: block;
+			width: 100%;
+			margin-left: auto;
+			margin-right: auto;
+		}
 
 		.image.fit {
 			display: block;
